@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-vscode-student",
+  "engine": "clickhouse",
+  "slug": "clickhouse",
+  "kind": "student",
+  "useCase": "student"
+}
